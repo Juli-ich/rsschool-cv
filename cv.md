@@ -1,6 +1,8 @@
 # **Juliya Chikrizova**
 
-![pic](/1pic.png "pic")
+![avatar](/1pic.png "pic")
+
+---
 
 ## email: <juliya.chikrizova@gmail.com>
 
@@ -8,8 +10,11 @@
 
 ## GitHub: <https://github.com/Juli-ich>
 
-----
+---
+
 ### *A novice developer, passionate about creating convenient and beautiful interfaces. I am actively learning and implementing my own projects. I want to grow in a strong team and contribute to the development of the product.*
+
+---
 
 ### Skills
 
@@ -37,12 +42,12 @@
 
 ### Code samples
 
-'''<script>
+```  <script>
     function generateNumber() {
       const randomNumber = Math.floor(Math.random() * 100) + 1;
       document.getElementById('output').textContent = "Твое число: " + randomNumber;
     }
-  </script>'''
+  </script> ```
 
 ### **Education**
 
