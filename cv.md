@@ -34,3 +34,26 @@
 • *UX/UI Basics*
 
 • *English — B1/B2*
+
+### Code samples
+
+'''<script>
+    function generateNumber() {
+      const randomNumber = Math.floor(Math.random() * 100) + 1;
+      document.getElementById('output').textContent = "Твое число: " + randomNumber;
+    }
+  </script>'''
+
+### **Education**
+
+Course "Frontend Developer"
+
+Modules: HTML, CSS, JavaScript, React, working with API, Git
+
+2024 — 2026
+
+### **English language**
+
+Level: B1 (Intermediate)
+
+I read technical documentation, take English courses. I have experience communicating with native speakers during language exchange.
