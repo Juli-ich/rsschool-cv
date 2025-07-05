@@ -1,6 +1,6 @@
 # **Juliya Chikrizova**
 
-![ava](1pic.png "pic")
+![ava](2pic.png "pic")
 
 ---
 
