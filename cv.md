@@ -1,6 +1,6 @@
 # **Juliya Chikrizova**
 
-![ava](/1pic.png "pic")
+![ava](file:///Users/juliya/rsschool-cv/1pic.png "pic")
 
 ---
 
@@ -42,7 +42,9 @@
 
 ### Code samples
 
-```<script>
+```
+
+<script>
 
     function generateNumber() {
       
@@ -52,7 +54,9 @@
     
     }
 
-  </script>```
+  </script>
+  
+  ```
 
 ### **Education**
 
