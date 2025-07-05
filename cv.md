@@ -1,6 +1,6 @@
 # **Juliya Chikrizova**
 
-![ava](file:///Users/juliya/rsschool-cv/1pic.png "pic")
+![ava](1pic.png "pic")
 
 ---
 
