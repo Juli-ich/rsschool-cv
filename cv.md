@@ -1,6 +1,6 @@
 # **Juliya Chikrizova**
 
-![ava] (/1pic.png "pic")
+![ava](/1pic.png "pic")
 
 ---
 
@@ -43,10 +43,15 @@
 ### Code samples
 
 ```<script>
+
     function generateNumber() {
+      
       const randomNumber = Math.floor(Math.random() * 100) + 1;
+      
       document.getElementById('output').textContent = "Твое число: " + randomNumber;
+    
     }
+
   </script>```
 
 ### **Education**
