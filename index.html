@@ -5,8 +5,79 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>CV</title>
+    <!-- добавить фавиконку -->
 </head>
 <body>
-    <h1>Juliya Chikrizova</h1>
+    <div class="container">
+        <header>
+            <nav>
+<!-- сделать якоря -->
+                <ul>
+                    <li>Contacts</li>
+                    <li>About me</li>
+                    <li>Skills</li>
+                    <li>Code</li>
+                    <li>Education</li>
+                    <li>English</li>
+                </ul>
+            </nav>
+            <div class="image">
+                <img src="assets/img/1pic.png" alt="avatar">
+            </div>
+            <div class="name">
+                <h1>Juliya Chikrizova</h1>
+                <div class="contacts">
+                    <ul>
+                        <li>email: juliya.chikrizova@gmail.com</li>
+                        <li>GitHub: <a href="https://github.com/Juli-ich">Juli-ich</a></li>
+                        <li>Discord: <a href="https://discordapp.com/users/juliya_0320">juliya_0320</a></li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div class="about">
+                <p>A novice developer, passionate about creating convenient and beautiful interfaces. I am actively learning and implementing my own projects. I want to grow in a strong team and contribute to the development of the product.</p>
+            </div>
+            <div class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML5/CSS3/SCSS</li>
+                    <li>JavaScript (ES6+)</li>
+                    <li>React, React Router, Redux Toolkit.</li>
+                    <li>TypeScript (beginner/confident level)</li>
+                    <li>Git, GitHub</li>
+                    <li>REST API, Axios</li>
+                    <li>Webpack, Vite</li>
+                    <li>Figma (reading layouts)</li>
+                    <li>Adaptive and cross-browser layout.</li>
+                    <li>UX/UI Basics</li>
+                    <li>English — B1/B2</li>
+                </ul>
+            </div>
+            <div class="code">
+                <h2>Code samples</h2>
+                <pre><code>
+                    function generateNumber() {
+                      const randomNumber = Math.floor(Math.random() * 100) + 1;document.getElementById('output').textContent = "Твое число: " + randomNumber;
+                    }
+                    </code></pre>
+<!-- перечень выполненных учебных проектов со ссылками на исходный код или страницу приложения -->
+                </div>
+            <div class="education">
+                <h2>Education</h2>
+                <p>Course "Frontend Developer"</p>
+                <p>Modules: HTML, CSS, JavaScript, React, working with API, Git</p>
+                <p>2024 — 2026</p>
+            </div>
+            <div class="eng">
+                <h2>English language</h2>
+                <p>Level: B1 (Intermediate)</p>
+            </div>
+        </main>
+        <footer>
+    
+        </footer>
+    </div>
 </body>
 </html>
